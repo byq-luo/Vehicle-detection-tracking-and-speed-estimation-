@@ -92,5 +92,4 @@ cv2.waitKey(1)
 # if the `q` key was pressed, break from the loop
 
 
-# do a bit of cleanup
 
