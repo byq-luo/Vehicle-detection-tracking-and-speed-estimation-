@@ -89,7 +89,7 @@ time.sleep(5.0)
 cv2.imwrite('tracked_image2.jpg',image)
 cv2.waitKey(1)
 
-# if the `q` key was pressed, break from the loop
+
 
 
 
